@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { AccountUsersComponent } from './components/feature/account-users/account-users.component';
 import { AccountHomeComponent } from './pages/account-home/account-home.component';
 
 const routes: Routes = [
